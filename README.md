@@ -23,6 +23,7 @@ by [Felipe dos Anjos](https://github.com/fc-anjos)
 - [How to Host static website for Free on Github Pages](https://medium.com/mikael-araya-blog/hosting-static-website-on-github-pages-for-free-570e90d6dabd?source=friends_link&sk=0242bdcd89240faae2bd7d9d7c81d223) by [Mikael Araya](https://github.com/mikearaya)
 - [My Personal Experience with Impostor Syndrome and How I Overcame It](https://medium.com/@agberndifor7/my-personal-experience-with-impostor-syndrome-and-how-i-overcame-it-748ab5d351d0) by [Osong Agberndifor](https://github.com/OA7)
 - [Coding is like The Lord of The Rings — and I will prove it!](https://link.medium.com/BTamWVTFm5) by [Raphael Cordeiro](https://github.com/phalado/)
+- [When learning to code, Slow is Fast.](https://medium.com/@aulbourn/when-learning-to-code-slow-is-fast-cf3f6a7d0938) by [Aulbourn Knowles](https://github.com/aulbytj)
 
 ## Algorithms and Data Structures
 -[Dismantling the Hackerrank Game of Thrones Challenge Using JavaScript](https://medium.com/@biodun9/dismantling-the-hackerrank-game-of-thrones-challenge-using-javascript-16390a338ae2) by [Abiodun Ajibade](https://github.com/Tripple-A)
